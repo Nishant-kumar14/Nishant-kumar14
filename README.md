@@ -27,4 +27,6 @@ A Data Science Enthusiast & Data Analytics Practitioner
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/artificial-intelligence--v1.png" alt="artificial-intelligence--v1"/>
   <img width="64" height="64" src="https://img.icons8.com/external-becris-flat-becris/64/external-deep-learning-data-science-becris-flat-becris.png" alt="external-deep-learning-data-science-becris-flat-becris"/>
+  <img width="32" height="32" src="https://img.icons8.com/external-solidglyph-m-oki-orlando/32/external-NLP-artificial-intelligence-solidglyph-m-oki-orlando.png" alt="external-NLP-artificial-intelligence-solidglyph-m-oki-orlando"/>
+  <img width="32" height="32" src="https://img.icons8.com/external-outline-black-m-oki-orlando/32/external-computer-vision-data-science-outline-outline-black-m-oki-orlando.png" alt="external-computer-vision-data-science-outline-outline-black-m-oki-orlando"/>
 </p>
