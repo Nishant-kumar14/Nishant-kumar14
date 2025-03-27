@@ -25,4 +25,6 @@ A Data Science Enthusiast & Data Analytics Practitioner
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="50" height="50"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/artificial-intelligence--v1.png" alt="artificial-intelligence--v1"/>
+  <img width="64" height="64" src="https://img.icons8.com/external-becris-flat-becris/64/external-deep-learning-data-science-becris-flat-becris.png" alt="external-deep-learning-data-science-becris-flat-becris"/>
 </p>
